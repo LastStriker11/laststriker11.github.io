@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Qing-Long Lu"
 title_separator          : "-"
 name                     : &name "Qing-Long Lu"
 description              : &description "Ph.D. student at Technical University of Munich"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qing-Long Lu(卢庆龙)"
-  avatar           : "octoberfest.png"
+  avatar           : "octoberfest.jpg"
   bio              : "Learning, thinking, and exercising."
   location         : "Munich, Germany"
   employer         :
