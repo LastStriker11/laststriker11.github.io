@@ -4,7 +4,7 @@ collection: publications
 date: 2020-11-13
 excerpt: 'Like other transportation data, lane-mean speeds are also best modeled by a system of structural equations. Several studies omit...'
 venue: 'European Journal of Transport and Infrastructure Research'
-paperurl: 'http://laststriker11.github.io/files/EJTIR_MobilTUM2019_published_v.pdf'
+paperurl: 'https://journals.open.tudelft.nl/ejtir/article/view/5409'
 ---
 
 Like other transportation data, lane-mean speeds are also best modeled by a system of structural equations. Several studies omit the interrelation between adjacent lane speeds, which may produce biased and inconsistent results if models are solved by ordinary least squares. The uncorrelatedness of regressors and disturbances assumption of ordinary least squares is violated since one or more independent variables are endogenous in the system. This study attempts to propose a structural equations approach to model the lane-mean speeds in multi-lane traffic, in which the endogeneity of adjacent lane speeds and the downstream speeds are being considered. Additionally, the equations system can serve as a prediction model for lane-mean speeds.
