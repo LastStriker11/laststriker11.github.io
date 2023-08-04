@@ -1,3 +1,13 @@
+1. Change the personal/project information in /_config.yml.
+2. Remove the unnecessary footer items in /_includes/footer.html.
+3. Remove the author information at the sidebar in /_config.yml under Site Author.
+4. Change the menu in /_data/navigation.yml.
+5. Edit the Home or About me page in /_pages/about.md.
+6. Change the page path by modifying the url in /_data/navigation.yml, the permalink in the respective .html or .md in /_pages.
+7. Change the icon in /_includes/head/custom.html.
+8. Remove the author photo ellipses sidebar after commenting /_layouts/single.html, /_layouts/archive.html and /_layouts/talk.html line 18, /_includes/sidebar.html line 8 - line 16.
+
+------------------------------
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
