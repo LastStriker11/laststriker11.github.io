@@ -13,23 +13,23 @@ author_profile: true
 {% include base_path %}
 
 <head>
-<style>
-a:link {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: grey;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
+  <style>
+  a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  </style>
 </head>
 
 <body>
