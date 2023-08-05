@@ -181,12 +181,15 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  news:
     output: true
     permalink: /:collection/:path/
   conferences:
     output: true
     permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
@@ -239,6 +242,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _conferences
   - scope:
       path: ""
       type: conferences
@@ -255,7 +259,7 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comment: true
-  # _conferences
+  
   # # _talks
   # - scope:
   #     path: ""
