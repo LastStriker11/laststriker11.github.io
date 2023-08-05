@@ -5,9 +5,6 @@ permalink: /news/
 author_profile: true
 ---
 
-Check if it works
-
-
 {% include base_path %}
 
 <body>
