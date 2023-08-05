@@ -14,6 +14,11 @@ author_profile: true
 
 <head>
 <style>
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
 a:visited {
   color: grey;
   background-color: transparent;
