@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ Qing-Long Lu is a Research Associate and a Ph.D. candidate at Technical Universi
 
 Qinglong holds a bachelor’s degree in Traffic Engineering from Sun Yat-sen University (SYSU), China, and a Master of Science in Transportation Systems from TUM.
 
-## Reviewing activity
+## Reviewing activities
 - Transportation Research Part A: Policy and Practice
 - Transportation Letters
 - Research in Transportation Business and Management
