@@ -25,7 +25,7 @@ author_profile: true
     text-decoration: none;
   }
   a:hover {
-    color: red;
+    color: #2E86C1;
     background-color: transparent;
     text-decoration: underline;
   }
