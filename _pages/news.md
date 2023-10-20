@@ -20,12 +20,12 @@ Uncomment the following when anything is available
   a:link {
     color: black;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
   }
   a:visited {
-    color: grey;
+    color: black;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
   }
   a:hover {
     color: #2E86C1;
