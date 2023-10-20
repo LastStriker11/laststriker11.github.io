@@ -40,15 +40,9 @@ author_profile: true
   {% for post in site.publications reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      if (post.paperurl !== "") {
-        <a href="{{post.paperurl}}">[paper]</a>
-      }
-      if (post.slidesurl !== "") {
-        <a href="{{post.slidesurl}}">[slides]</a>
-      }
-      if (post.posterurl !== "") {
-        <a href="{{post.posterurl}}">[poster]</a>
-      }
+      <a href="{{post.paperurl}}" id="checkurl">[paper]</a>
+      <a href="{{post.slidesurl}}" id="checkurl">[slides]</a>
+      <a href="{{post.posterurl}}" id="checkurl">[poster]</a>
     </li>
   {% endfor %}
 </ol>
@@ -58,17 +52,21 @@ author_profile: true
   {% for post in site.conferences reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      if (post.paperurl !== "") {
-        <a href="{{post.paperurl}}">[paper]</a>
-      }
-      if (post.slidesurl !== "") {
-        <a href="{{post.slidesurl}}">[slides]</a>
-      }
-      if (post.posterurl !== "") {
-        <a href="{{post.posterurl}}">[poster]</a>
-      }
+      <a href="{{post.paperurl}}" id="checkurl">[paper]</a>
+      <a href="{{post.slidesurl}}" id="checkurl">[slides]</a>
+      <a href="{{post.posterurl}}" id="checkurl">[poster]</a>
     </li>
   {% endfor %}
 </ol>
+
+<script>
+  window.addEventListener('load', function() {
+    var link = document.getElementById("checkurl");
+
+    if (link.getAttribute("href") === "") {
+      link.style.display = "none";
+    }
+  });
+</script>
 
 </body>
