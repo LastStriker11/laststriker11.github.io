@@ -40,9 +40,9 @@ author_profile: true
   {% for post in site.publications reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <a href="{{post.paperurl}}" id="checkurl">[paper]</a>
-      <a href="{{post.slidesurl}}" id="checkurl">[slides]</a>
-      <a href="{{post.posterurl}}" id="checkurl">[poster]</a>
+      <a href="{{post.paperurl}}">[paper]</a>
+      <!-- <a href="{{post.slidesurl}}" id="checkurl">[slides]</a>
+      <a href="{{post.posterurl}}" id="checkurl">[poster]</a> -->
     </li>
   {% endfor %}
 </ol>
@@ -52,21 +52,11 @@ author_profile: true
   {% for post in site.conferences reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <a href="{{post.paperurl}}" id="checkurl">[paper]</a>
-      <a href="{{post.slidesurl}}" id="checkurl">[slides]</a>
-      <a href="{{post.posterurl}}" id="checkurl">[poster]</a>
+      <a href="{{post.paperurl}}">[download]</a>
+      <!-- <a href="{{post.slidesurl}}" id="checkurl">[slides]</a>
+      <a href="{{post.posterurl}}" id="checkurl">[poster]</a> -->
     </li>
   {% endfor %}
 </ol>
-
-<script>
-  window.addEventListener('load', function() {
-    var link = document.getElementById("checkurl");
-
-    if (link.getAttribute("href") === "") {
-      link.style.display = "none";
-    }
-  });
-</script>
 
 </body>
