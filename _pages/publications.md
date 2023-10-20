@@ -40,7 +40,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <a href="{{post.paperurl}}">[Download]</a>
+      <a href="{{post.paperurl}}">[paper]</a>
     </li>
   {% endfor %}
 </ol>
@@ -50,7 +50,8 @@ author_profile: true
   {% for post in site.conferences reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <a href="{{post.paperurl}}">[Download]</a>
+      <a href="{{post.paperurl}}">[paper]</a>
+      <a href="{{post.posterurl}}">[poster]</a>
     </li>
   {% endfor %}
 </ol>
