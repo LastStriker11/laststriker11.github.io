@@ -40,12 +40,15 @@ author_profile: true
   {% for post in site.publications reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      if post.paperurl:
+      if (post.paperurl !== "") {
         <a href="{{post.paperurl}}">[paper]</a>
-      if post.slidesurl:
+      }
+      if (post.slidesurl !== "") {
         <a href="{{post.slidesurl}}">[slides]</a>
-      if post.posterurl:
+      }
+      if (post.posterurl !== "") {
         <a href="{{post.posterurl}}">[poster]</a>
+      }
     </li>
   {% endfor %}
 </ol>
@@ -55,12 +58,15 @@ author_profile: true
   {% for post in site.conferences reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      if post.paperurl:
+      if (post.paperurl !== "") {
         <a href="{{post.paperurl}}">[paper]</a>
-      if post.slidesurl:
+      }
+      if (post.slidesurl !== "") {
         <a href="{{post.slidesurl}}">[slides]</a>
-      if post.posterurl:
+      }
+      if (post.posterurl !== "") {
         <a href="{{post.posterurl}}">[poster]</a>
+      }
     </li>
   {% endfor %}
 </ol>
