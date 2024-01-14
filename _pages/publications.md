@@ -20,7 +20,7 @@ author_profile: true
     text-decoration: none;
   }
   a:visited {
-    color: grey;
+    color: black;
     background-color: transparent;
     text-decoration: none;
   }

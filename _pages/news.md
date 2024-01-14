@@ -23,7 +23,7 @@ Uncomment the following when anything is available
     text-decoration: none;
   }
   a:visited {
-    color: grey;
+    color: black;
     background-color: transparent;
     text-decoration: none;
   }
@@ -35,6 +35,10 @@ Uncomment the following when anything is available
   </style>
 </head>
 
+
+<span style="color:#2E86C1">**2023**</span>
+
+- 1/2024: We presented our work "Transfer learning for transportation system resilience patterns prediction using floating car data" in the [TRB](https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx) conference in Washington DC, USA (07.01.2024 - 11.01.2024).
 
 <span style="color:#2E86C1">**2023**</span>
 
