@@ -40,9 +40,9 @@ Uncomment the following when anything is available
 
 - 4/2024: Our work "Traffic resilience quantification based on macroscopic fundamental diagrams and analysis using topological attributes" was published in Reliability Engineering & System Safety.
 
-- 3/2024：Our work "Tucker factorization-based tensor completion for robust traffic data imputation" (first author: Cheng Lyu) was published in Transportation Research Part C.
+- 3/2024: Our work "Tucker factorization-based tensor completion for robust traffic data imputation" (first author: Cheng Lyu) was published in Transportation Research Part C.
 
-- 2/2024：Our work "A similarity-based data-driven car-following model considering driver heterogeneity" (first author: Zi-Jian Liu) was published in Transportation Research Procedia.
+- 2/2024: Our work "A similarity-based data-driven car-following model considering driver heterogeneity" (first author: Zi-Jian Liu) was published in Transportation Research Procedia.
 
 - 1/2024: We presented our work "Transfer learning for transportation system resilience patterns prediction using floating car data" in the [TRB](https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx) conference in Washington DC, USA (07.01.2024 - 11.01.2024).
 
