@@ -7,8 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<head>
+  <style>
+  a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #2E86C1;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  </style>
+</head>
 
-## Biography
+<!-- ## Biography -->
 
 Qinglong Lu is a Research Associate and a Ph.D. candidate at the Chair of Transportation Systems Engineering of the Technical University of Munich (TUM), Germany, since June 2021. His research focuses on urban transportation system resilience evaluation and optimization, mobility pattern analysis, DTA model calibration, and simulation-based optimization.
 
