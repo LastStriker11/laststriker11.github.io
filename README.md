@@ -6,6 +6,7 @@
 6. Change the page path by modifying the url in /_data/navigation.yml, the permalink in the respective .html or .md in /_pages.
 7. Change the icon in /_includes/head/custom.html.
 8. Remove the author photo ellipses sidebar after commenting /_layouts/single.html, /_layouts/archive.html and /_layouts/talk.html line 18, /_includes/sidebar.html line 8 - line 16.
+9. Change the display of avatar from ellpsoid to rectangle by commenting line 87 in `_sass/_sidebar.scss`: `border-radius: 50%;`
 
 ------------------------------
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
