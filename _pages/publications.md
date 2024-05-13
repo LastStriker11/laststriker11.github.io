@@ -27,7 +27,7 @@ author_profile: true
   a:hover {
     color: #2E86C1;
     background-color: transparent;
-    text-decoration: underline;
+    /* text-decoration: underline; */
   }
   </style>
 </head>

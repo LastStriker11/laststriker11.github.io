@@ -30,7 +30,7 @@ Uncomment the following when anything is available
   a:hover {
     color: #2E86C1;
     background-color: transparent;
-    text-decoration: underline;
+    /* text-decoration: underline; */
   }
   </style>
 </head>
