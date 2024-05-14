@@ -29,7 +29,7 @@ redirect_from:
 
 <!-- ## Biography -->
 
-Qinglong Lu is a Research Associate and a Ph.D. candidate at the Chair of Transportation Systems Engineering of the Technical University of Munich (TUM), Germany, since June 2021. His research focuses on urban transportation system resilience evaluation and optimization, mobility pattern analysis, DTA model calibration, and simulation-based optimization.
+Qinglong Lu is a Research Associate and a Ph.D. candidate at the Chair of Transportation Systems Engineering of Technical University of Munich (TUM), Germany, under supervision of [Prof. Constantinos Antoniou](https://www.mos.ed.tum.de/en/vvs/mitarbeiterinnen/constantinos-antoniou/). His research focuses on urban transportation system resilience evaluation and optimization, mobility pattern analysis, DTA model calibration, and simulation-based optimization.
 
 Qinglong holds a Bachelor’s degree in Traffic Engineering from Sun Yat-sen University (SYSU), China, and a Master of Science in Transportation Systems from TUM.
 
