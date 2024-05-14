@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Qinglong Lu"
-title_separator          : "-"
-name                     : &name "About Me"
+title_separator          : "|"
+name                     : &name "Qinglong Lu" # for sitemap information
 description              : &description "Ph.D. student at Technical University of Munich"
 url                      : https://laststriker11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
