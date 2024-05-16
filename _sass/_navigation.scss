@@ -208,13 +208,13 @@
       display: table-cell;
       vertical-align: middle;
 
-      &:first-child {
-        font-weight: bold;
+      // &:first-child {
+      //   font-weight: bold;
 
-        a {
-          margin-left: 0;
-        }
-      }
+      //   a {
+      //     margin-left: 0;
+      //   }
+      // }
 
       &:last-child {
         a {
