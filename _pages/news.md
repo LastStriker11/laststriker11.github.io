@@ -38,6 +38,7 @@ Uncomment the following when anything is available
 
 <span style="color:#2E86C1">**2024**</span>
 
+- 4/2024: Our work "Transfer Learning for Transportation Demand Resilience Pattern Prediction Using Floating Car Data" (first author: Ningkang Yang) was published in Transportation Research Record.
 - 4/2024: Our work "Traffic resilience quantification based on macroscopic fundamental diagrams and analysis using topological attributes" was published in Reliability Engineering & System Safety.
 
 - 3/2024: Our work "Tucker factorization-based tensor completion for robust traffic data imputation" (first author: Cheng Lyu) was published in Transportation Research Part C.
