@@ -38,7 +38,7 @@ Uncomment the following when anything is available
 
 <span style="color:#2E86C1">**2024**</span>
 
-- 9/2024: We presented our work "Simulation-based network capacity allocation optimization for traffic resilience via enhanced mixed stochastic approximation" [[slides]](files/slides/trc30_slides.pdf) in the [TRC-30](https://trc-30.epfl.ch/) conference in Crete, Greece (02.09.2024 - 04.09.2024).
+- 9/2024: We presented our work "Simulation-based network capacity allocation optimization for traffic resilience via enhanced mixed stochastic approximation" [[slides]](/files/slides/trc30_slides.pdf) in the [TRC-30](https://trc-30.epfl.ch/) conference in Crete, Greece (02.09.2024 - 04.09.2024).
 
 - 8/2024: I passed my Ph.D. thesis defense with extinction. The topic is "Evaluation and simulation-based optimization of urban traffic resilience".
 
