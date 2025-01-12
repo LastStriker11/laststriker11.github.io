@@ -4,6 +4,7 @@ collection: publications
 date: 2025-01-01
 venue: 'IEEE Internet of Things Journal'
 paperurl: https://doi.org/10.1109/JIOT.2024.3516695 
+# paperurl: https://doi.org/10.1177/03611981241245681
 ---
 
 The Internet of Things enables collaborative efforts

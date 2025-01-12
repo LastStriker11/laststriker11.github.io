@@ -83,7 +83,7 @@ author:
   name             : "Qinglong Lu (卢庆龙)"
   avatar           : "tree_lake_square.jpg"
   bio              : "Learning, thinking, and practicing."
-  location         : "Munich, Germany"
+  location         : #"Munich, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2x6zAnQAAAAJ&hl=en"
