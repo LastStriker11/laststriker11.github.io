@@ -34,8 +34,7 @@ author_profile: true
 
 <body>
 
-<h2>Journal</h2>
-
+<h2 style="color:#2E86C1">Journal</h2>
 <ol>
   {% for post in site.publications reversed %}
     <li>
@@ -47,7 +46,7 @@ author_profile: true
   {% endfor %}
 </ol>
 
-<h2>Conference</h2>
+<h2 style="color:#2E86C1">Conference</h2>
 <ol>
   {% for post in site.conferences reversed %}
     <li>
