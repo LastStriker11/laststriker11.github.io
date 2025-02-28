@@ -38,9 +38,13 @@ Uncomment the following when anything is available
 
 <span style="color:#2E86C1">**2024**</span>
 
+- 1/2025: We presented our work "Modeling Crowdedness at Public Transport Stations During Special Events: A Comparative Study of Eleven Cities" in the [TRB](https://trb-annual-meeting.nationalacademies.org/) conference in Washington DC, USA (05.01.2025 - 09.01.2025).
+
+- 12/2024：Our work “Efficient Cloud-Sourced Transport Mode Detection Using Trajectory Data: A Semi-Supervised Asynchronous Federated Learning Approach” (first author: Ningkang Yang) was published in IEEE Internet of Things Journal.
+
 - 9/2024: We presented our work "Simulation-based network capacity allocation optimization for traffic resilience via enhanced mixed stochastic approximation" [[slides]](/files/slides/trc30_slides.pdf) in the [TRC-30](https://trc-30.epfl.ch/) conference in Crete, Greece (02.09.2024 - 04.09.2024).
 
-- 8/2024: I passed my Ph.D. thesis defense with extinction. The topic is "Evaluation and simulation-based optimization of urban traffic resilience".
+- 8/2024: I passed my Ph.D. thesis defense with distinction. The topic is "Evaluation and simulation-based optimization of urban traffic resilience".
 
 - 5/2024: Our work "Transfer Learning for Transportation Demand Resilience Pattern Prediction Using Floating Car Data" (first author: Ningkang Yang) was published in Transportation Research Record.
 
