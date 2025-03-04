@@ -38,6 +38,8 @@ Uncomment the following when anything is available
 
 <span style="color:#2E86C1">**2024**</span>
 
+- 1/2025: I joined the Department of Civil and Environmental Engineering, National University of Singapore, as a Postdoctoral Researcher.
+
 - 1/2025: We presented our work "Modeling Crowdedness at Public Transport Stations During Special Events: A Comparative Study of Eleven Cities" in the [TRB](https://trb-annual-meeting.nationalacademies.org/) conference in Washington DC, USA (05.01.2025 - 09.01.2025).
 
 - 12/2024：Our work “Efficient Cloud-Sourced Transport Mode Detection Using Trajectory Data: A Semi-Supervised Asynchronous Federated Learning Approach” (first author: Ningkang Yang) was published in IEEE Internet of Things Journal.
