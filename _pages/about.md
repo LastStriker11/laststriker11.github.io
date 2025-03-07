@@ -36,6 +36,7 @@ Qinglong holds a Bachelor’s degree in Traffic Engineering from Sun Yat-sen Uni
 ## Reviewing activities
 - Transportation Research Part C: Emerging Technologies
 - Transportation Research Part A: Policy and Practice
+- Journal of Transport Geography
 - Expert Systems with Applications
 - Transportation Letters
 - Research in Transportation Business and Management
