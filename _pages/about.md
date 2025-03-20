@@ -46,6 +46,5 @@ Qinglong holds a Bachelor’s degree in Traffic Engineering from Sun Yat-sen Uni
 - MobilTUM
 
 -----
-![Visitor Count](https://komarev.com/ghpvc/?username=LastStriker11&color=blue)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LastStriker11.laststriker11.github.io)
