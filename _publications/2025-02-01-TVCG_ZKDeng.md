@@ -1,0 +1,9 @@
+---
+title: "Deng, Z., Liu, Y., Zhu, M., Xiang, D., Yu, H., Su, Z., Lu, Q., Schreck, T., & Cai, Y. (2025). TraSculptor: Visual Analytics for Enhanced Decision-Making in Road Traffic Planning. IEEE Transactions on Visualization and Computer Graphics."
+collection: publications
+date: 2025-02-01
+venue: 'IEEE Transactions on Visualization and Computer Graphics'
+paperurl: https://doi.org/10.1109/TVCG.2025.3532498
+---
+
+The design of urban road networks significantly influences traffic conditions, underscoring the importance of informed traffic planning. Traffic planning experts rely on specialized platforms to simulate traffic systems, assessing the efficacy of the road network across various states of modifications. Nevertheless, a prevailing issue persists: many existing traffic planning platforms exhibit inefficiencies in flexibly interacting with the road network's structure and attributes and intuitively comparing multiple states during the iterative planning process. This paper introduces TraSculptor, an interactive planning decision-making system. To develop TraSculptor, we identify and address two challenges: interactive modification of road networks and intuitive comparison of multiple network states. For the first challenge, we establish flexible interactions to enable experts to easily and directly modify the road network on the map. For the second challenge, we design a comparison view with a history tree of multiple states and a road-state matrix to facilitate intuitive comparison of road network states. To evaluate TraSculptor, we provided a usage scenario where the Braess's paradox was showcased, invited experts to perform a case study on the Sioux Falls network, and collected expert feedback through interviews.

@@ -38,13 +38,19 @@ Uncomment the following when anything is available
 
 <span style="color:#2E86C1">**2025**</span>
 
+- 4/2025: Our work “Railway-station-area vitality in response to COVID-19: A case study of diverse Japanese cities” (first author: Jiannan Dai) was published in Cities.
+
+- 2/2025: Our work “Visual comparative analytics of multimodal transportation” (first author: Zikun Deng) was published in Visual Informatics.
+
+- 2/2025: Our work “TraSculptor: Visual Analytics for Enhanced Decision-Making in Road Traffic Planning” (first author: Zikun Deng) was published in IEEE Transactions on Visualization and Computer Graphics.
+
 - 1/2025: I joined the Department of Civil and Environmental Engineering, National University of Singapore, as a Postdoctoral Researcher.
 
 - 1/2025: We presented our work "Modeling Crowdedness at Public Transport Stations During Special Events: A Comparative Study of Eleven Cities" in the [TRB](https://trb-annual-meeting.nationalacademies.org/) conference in Washington DC, USA (05.01.2025 - 09.01.2025).
 
 <span style="color:#2E86C1">**2024**</span>
 
-- 12/2024：Our work “Efficient Cloud-Sourced Transport Mode Detection Using Trajectory Data: A Semi-Supervised Asynchronous Federated Learning Approach” (first author: Ningkang Yang) was published in IEEE Internet of Things Journal.
+- 12/2024: Our work “Efficient Cloud-Sourced Transport Mode Detection Using Trajectory Data: A Semi-Supervised Asynchronous Federated Learning Approach” (first author: Ningkang Yang) was published in IEEE Internet of Things Journal.
 
 - 9/2024: We presented our work "Simulation-based network capacity allocation optimization for traffic resilience via enhanced mixed stochastic approximation" [[slides]](/files/slides/trc30_slides.pdf) in the [TRC-30](https://trc-30.epfl.ch/) conference in Crete, Greece (02.09.2024 - 04.09.2024).
 
