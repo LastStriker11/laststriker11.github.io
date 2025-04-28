@@ -29,7 +29,7 @@ redirect_from:
 
 <!-- ## Biography -->
 
-Qinglong Lu is a Postdoctoral Associate at National University of Singapore. He obtained his doctoral degree from the Technical University of Munich (TUM), Germany, under the supervision of [Prof. Constantinos Antoniou](https://www.mos.ed.tum.de/en/vvs/mitarbeiterinnen/constantinos-antoniou/). His research focuses on simulation-based optimization, urban transportation system resilience evaluation and optimization, mobility pattern analysis, and DTA model calibration.
+Qinglong Lu is a Postdoctoral Associate at National University of Singapore. He obtained his doctoral degree from the Technical University of Munich (TUM), Germany, under the supervision of [Prof. Constantinos Antoniou](https://www.mos.ed.tum.de/en/vvs/mitarbeiterinnen/constantinos-antoniou/). His research focuses on traffic simulation, transportation system optimization, traffic control, and mobility pattern analysis.
 
 Qinglong holds a Bachelor’s degree in Traffic Engineering from Sun Yat-sen University (SYSU), China, and a Master of Science in Transportation Systems from TUM.
 
