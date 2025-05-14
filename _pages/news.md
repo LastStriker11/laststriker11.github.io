@@ -38,6 +38,10 @@ Uncomment the following when anything is available
 
 <span style="color:#2E86C1">**2025**</span>
 
+- 5/2025: Our work “Dynamic network capacity allocation using model predictive control with sparse identification of nonlinear dynamics” was published in *IEEE Transactions on Intelligent Transportation Systems*.
+
+- 5/2025: Our work “Post-disruption lane reversal optimization with surrogate modeling to improve urban traffic resilience” was published in *Transportation Research Part B: Methodological*.
+
 - 4/2025: Our work “Railway-station-area vitality in response to COVID-19: A case study of diverse Japanese cities” (first author: Jiannan Dai) was published in *Cities*.
 
 - 2/2025: Our work “Visual comparative analytics of multimodal transportation” (first author: Zikun Deng) was published in *Visual Informatics*.
