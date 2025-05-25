@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Services"
+    url: /services/
     
 #  - title: "CV"
 #    url: 'http://laststriker11.github.io/files/LQL_CV.pdf'

@@ -33,23 +33,6 @@ Qinglong Lu is a Postdoctoral Associate at National University of Singapore. He 
 
 Qinglong holds a Bachelor’s degree in Traffic Engineering from Sun Yat-sen University (SYSU), China, and a Master of Science in Transportation Systems from TUM.
 
-## Reviewing activities
-
-# Journals
-- Transportation Research Part C: Emerging Technologies
-- Transportation Research Part A: Policy and Practice
-- Reliability Engineering & System Safety
-- Journal of Transport Geography
-- Expert Systems with Applications
-- Transportation Letters
-- Research in Transportation Business and Management
-- Transportation Planning and Technology
-
-# Conferences
-- Transportation Research Board Annual Meeting
-- IEEE Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)
-- MobilTUM
-
 -----
 
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=LastStriker11.laststriker11.github.io)
