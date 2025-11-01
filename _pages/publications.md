@@ -17,7 +17,7 @@ author_profile: true
   a:link {
     color: black;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
   }
   a:visited {
     color: grey;
@@ -25,9 +25,9 @@ author_profile: true
     text-decoration: none;
   }
   a:hover {
-    color: black;
+    color: #05339C;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
   }
   </style>
 </head>
@@ -39,7 +39,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     <li>
       <!-- <a href="{{ post.url }}">{{ post.title }}</a> -->
-      <a>{{ post.title }}</a>
+      <a href="">{{ post.title }}</a>
       <a href="{{post.paperurl}}">[paper]</a>
       <!-- <a href="{{post.slidesurl}}" id="checkurl">[slides]</a>
       <a href="{{post.posterurl}}" id="checkurl">[poster]</a> -->
