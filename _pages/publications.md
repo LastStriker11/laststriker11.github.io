@@ -17,17 +17,17 @@ author_profile: true
   a:link {
     color: black;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
   }
   a:visited {
-    color: black;
+    color: grey;
     background-color: transparent;
     text-decoration: none;
   }
   a:hover {
-    color: #2E86C1;
+    color: black;
     background-color: transparent;
-    /* text-decoration: underline; */
+    text-decoration: none;
   }
   </style>
 </head>
@@ -51,7 +51,8 @@ author_profile: true
 <ol>
   {% for post in site.conferences reversed %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <!-- <a href="{{ post.url }}">{{ post.title }}</a> -->
+      <a>{{ post.title }}</a>
       <a href="{{post.paperurl}}">[download]</a>
       <!-- <a href="{{post.slidesurl}}" id="checkurl">[slides]</a>
       <a href="{{post.posterurl}}" id="checkurl">[poster]</a> -->
