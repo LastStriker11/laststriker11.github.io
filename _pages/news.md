@@ -38,6 +38,8 @@ Uncomment the following when anything is available
 
 <span style="color:#2E86C1">**2025**</span>
 
+- 10/2025: Our work "Modeling Crowdedness at Public Transport Stations During Special Events: A Comparative Study of Eleven Cities" (first author: Wanrong Hu) was published in *Transportation Research Record*.
+
 - 8/2025: Our work "Planning UAM network under uncertain travelers’ preferences: A sequential two-layer stochastic optimization approach" (first author: Tao Guo) was published in *Transportation Research Part A*.
 
 - 7/2025: Our work "A sustainable multi-objective framework for multi-phased, capacitated vertiport siting with land use integration." (first author: Hao Wu) was published in *Communications in Transportation Research*.
