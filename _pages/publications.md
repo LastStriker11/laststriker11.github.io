@@ -27,14 +27,14 @@ author_profile: true
   a:hover {
     color: #05339C;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
   }
   </style>
 </head>
 
 <body>
 
-<h2 style="color:#2E86C1">Journal</h2>
+<h2 style="color:#000000">Journal</h2>
 <ol>
   {% for post in site.publications reversed %}
     <li>
@@ -47,7 +47,7 @@ author_profile: true
   {% endfor %}
 </ol>
 
-<h2 style="color:#2E86C1">Conference</h2>
+<h2 style="color:#000000">Conference</h2>
 <ol>
   {% for post in site.conferences reversed %}
     <li>
