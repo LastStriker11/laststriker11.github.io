@@ -20,7 +20,7 @@ redirect_from:
     text-decoration: none;
   }
   a:hover {
-    color: #2E86C1;
+    color: #000000;
     background-color: transparent;
     /* text-decoration: underline; */
   }

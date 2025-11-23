@@ -12,7 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-<head>
+<!-- <head>
   <style>
   a:link {
     color: black;
@@ -30,7 +30,7 @@ author_profile: true
     text-decoration: none;
   }
   </style>
-</head>
+</head> -->
 
 <body>
 
