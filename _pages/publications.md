@@ -39,7 +39,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     <li>
       <!-- <a href="{{ post.url }}">{{ post.title }}</a> -->
-      <a href="">{{ post.title }}</a>
+      <a>{{ post.title }}</a>
       <a href="{{post.paperurl}}">[paper]</a>
       <!-- <a href="{{post.slidesurl}}" id="checkurl">[slides]</a>
       <a href="{{post.posterurl}}" id="checkurl">[poster]</a> -->
