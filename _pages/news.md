@@ -17,21 +17,26 @@ Uncomment the following when anything is available
 </body> -->
 <head>
   <style>
-  a:link {
-    color: black;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:visited {
-    color: black;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:hover {
-    color: #2E86C1;
-    background-color: transparent;
-    /* text-decoration: underline; */
-  }
+    a:link {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a{
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
   </style>
 </head>
 

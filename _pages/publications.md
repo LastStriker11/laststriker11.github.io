@@ -28,7 +28,6 @@ author_profile: true
       color: black;
       background-color: transparent;
       text-decoration: none;
-      /* text-decoration: underline; */
     }
     a {
       color: black;
@@ -40,7 +39,7 @@ author_profile: true
 
 <body>
 
-<h2 style="color:#000000">Journal</h2>
+<h2 style="color:black">Journal</h2>
 <ol>
   {% for post in site.publications reversed %}
     <li>
@@ -53,7 +52,7 @@ author_profile: true
   {% endfor %}
 </ol>
 
-<h2 style="color:#000000">Conference</h2>
+<h2 style="color:black">Conference</h2>
 <ol>
   {% for post in site.conferences reversed %}
     <li>

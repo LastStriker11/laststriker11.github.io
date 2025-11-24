@@ -9,21 +9,26 @@ redirect_from:
 ---
 <head>
   <style>
-  a:link {
-    color: black;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:visited {
-    color: black;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:hover {
-    color: #000000;
-    background-color: transparent;
-    /* text-decoration: underline; */
-  }
+    a:link {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a{
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
   </style>
 </head>
 
