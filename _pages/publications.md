@@ -12,25 +12,31 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- <head>
+<head>
   <style>
-  a:link {
-    color: black;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:visited {
-    color: grey;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:hover {
-    color: #05339C;
-    background-color: transparent;
-    text-decoration: none;
-  }
+    a:link {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+      /* text-decoration: underline; */
+    }
+    a {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
   </style>
-</head> -->
+</head>
 
 <body>
 
