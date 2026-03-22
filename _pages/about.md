@@ -34,9 +34,8 @@ redirect_from:
 
 <!-- ## Biography -->
 
-Qinglong Lu is a Postdoctoral Associate at National University of Singapore. He obtained his doctoral degree from the Technical University of Munich (TUM), Germany, under the supervision of [Prof. Constantinos Antoniou](https://www.mos.ed.tum.de/en/vvs/mitarbeiterinnen/constantinos-antoniou/) (Editor-in-Chief of Transportation Research Part A). His research focuses on traffic simulation, transportation system optimization, traffic control, and mobility pattern modeling.
-
-Qinglong holds a Bachelor’s degree in Traffic Engineering from Sun Yat-sen University (SYSU), China, and a Master of Science in Transportation Systems from TUM.
+Qinglong Lu is an Associate Professor of the School of Intelligent Systems Engineering at Sun Yat-sen University (SYSU). Before joining SYSU, he was a Postdoctoral Associate at National University of Singapore. He obtained his doctoral degree from the Technical University of Munich (TUM), Germany, under the supervision of [Prof. Constantinos Antoniou](https://www.mos.ed.tum.de/en/vvs/mitarbeiterinnen/constantinos-antoniou/) (Editor-in-Chief of Transportation Research Part A). His research focuses on transportation system optimization, simulation-based optimization, data-driven control, statistical learning and mobility pattern modeling.
+Qinglong holds a Bachelor’s degree in Traffic Engineering from SYSU, China, and a Master of Science in Transportation Systems from TUM.
 
 -----
 

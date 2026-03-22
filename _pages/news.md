@@ -43,6 +43,12 @@ Uncomment the following when anything is available
 
 <span style="color:#2E86C1">**2025**</span>
 
+- 3/2026: Our work "Vehicle fleet optimization for opportunistic urban sensing: A context-aware entropy-based approach" (first author: Hui Zhong) was published in *Transportation Research Part C: Emerging Technologies*.
+
+- 3/2026: I joined the School of Intelligent Systems Engineering at Sun Yat-sen University in Shenzhen, China, as an Associate Professor.
+
+<span style="color:#2E86C1">**2025**</span>
+
 - 10/2025: Our work "Modeling Crowdedness at Public Transport Stations During Special Events: A Comparative Study of Eleven Cities" (first author: Wanrong Hu) was published in *Transportation Research Record*.
 
 - 8/2025: Our work "Planning UAM network under uncertain travelers’ preferences: A sequential two-layer stochastic optimization approach" (first author: Tao Guo) was published in *Transportation Research Part A*.
